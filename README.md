@@ -4,6 +4,6 @@ A remotely controlled racing car that is fully powered by solar and wind energie
 
 Built using Arduino Uno.
 
-Used Relays, and two NRF24L01.
+Used Relays, and two NRF24L01 for the charging circuit.
 
 
